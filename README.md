@@ -7,3 +7,10 @@ Talk about Groth mindset
 Here are the 3 reminders about a Growth Mindshet. 
 
 1. Add "...Yet" to negative statements. 
+3. Learn how to count in sequence at some point.
+4. Push a "I belive!" button
+5. Ask for Help!
+6. Learn to stick in the number limits for lists.
+
+
+Link to my github [PORTFOLIO](https://github.com/FlyHighFreddy)
