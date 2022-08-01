@@ -18,4 +18,8 @@ Here are the 3 reminders about a Growth Mindshet.
 6. Learn to stick in the number limits for lists.
 
 
+### About me!
+
+I am a AH-64D Attack Helicopter pilot who intends to leverage coding as a side-hustle. I enjoy aviation photography, and many of my websites will feature my own photography going forward.
+
 Link to my github [PORTFOLIO](https://github.com/FlyHighFreddy)
