@@ -18,12 +18,6 @@ Here are the 3 reminders about a Growth Mindshet.
 6. Learn to stick in the number limits for lists.
 
 
-## Reading Notes for Class 02 
-
-1. The Command Line - A simple way of interacting with multiple tools. Check out [this video](https://youtu.be/I4EWvMFj37g) for more info.
-2. Basic Navigation - multiple ways to shorten paths ~ . .. there are benefits to all
-3. About Files - Extensions are a myth in Linux,  `file [path]` tells you what it is, say no to the\ spacebar unless you\, and it's all case sensitive AF. 
-4. .theRestIsHidden
 ### About me!
 
 _I am a AH-64D 🚁:Attack Helicopter pilot who intends to leverage coding as a side-hustle. I enjoy aviation photography, and many of my websites will feature my own [PHOTOGRAPHY](https://www.instagram.com/flyhighfreddy/?hl=en) going forward._
