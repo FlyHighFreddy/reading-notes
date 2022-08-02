@@ -1,7 +1,7 @@
 ## This is my Reading Notes Repository
 _Why are there no notes yet? Because the notes are all lies anyways. Even if you see them, they are just illusory_ 
 
-
+First, an index for all the seperate pages for my Class Notes:
 ### [Reading Notes for Class 2](class2.md)
 
 
