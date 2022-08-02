@@ -10,6 +10,6 @@ _Why are there no notes yet? Because the notes are all lies anyways. Even if you
 
 ### About me!
 
-_I am a AH-64D 🚁:Attack Helicopter pilot who intends to leverage coding as a side-hustle. I enjoy aviation photography, and many of my websites will feature my own [PHOTOGRAPHY](https://www.instagram.com/flyhighfreddy/?hl=en) going forward._
+_I am a AH-64D 🚁:Attack Helicopter pilot who intends to leverage coding as a side-hustle. I enjoy aviation photography, and many of my websites will feature my own [photography](https://www.instagram.com/flyhighfreddy/?hl=en) going forward._
 
-Link to my github [PORTFOLIO](https://github.com/FlyHighFreddy)
+Link to my github [portfolio](https://github.com/FlyHighFreddy)
