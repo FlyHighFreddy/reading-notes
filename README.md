@@ -18,7 +18,7 @@ Here are the 3 reminders about a Growth Mindshet.
 6. Learn to stick in the number limits for lists.
 
 
-## Reading notes for Class 02 
+## Reading Notes for Class 02 
 
 1. The Command Line - A simple way of interacting with multiple tools. Check out [this video](https://youtu.be/I4EWvMFj37g) for more info.
 2. Basic Navigation - multiple ways to shorten paths ~ . .. there are benefits to all
