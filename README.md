@@ -2,7 +2,7 @@
 _Why are there no notes yet? Because the notes are all lies anyways. Even if you see them, they are just illusory_ 
 
 
-[Reading Notes for Class 2](
+[Reading Notes for Class 2](https://github.com/FlyHighFreddy/reading-notes/class2)
 
 
 ![DSC_0110](https://user-images.githubusercontent.com/81983821/182227233-19fe61e8-5d38-473d-b6a0-92cd390c5338.jpg)
