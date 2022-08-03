@@ -15,8 +15,6 @@ Here's a screenshot of my initial A-C-P process:
 
 I'm ripping his raw content to look at and have a copy of his notes. Please see his original site for the actual credit and content.
 
-
-
 ### Class 3 Reading Notes
 
 _This class stressed the importance of git and github. We also went over the differences between git and github and the correct usage of the commands in terminal._
@@ -65,7 +63,7 @@ _This class stressed the importance of git and github. We also went over the dif
   - Add
   - Commit
    - Push
-
+   
 > git status _(helps to see what’s going on, do it all the time to check)_
 
 > git add FILENAME.md  _(tab will autocomplete the file name)_
