@@ -5,6 +5,8 @@ _Why are there no notes yet? Because the notes are all lies anyways. Even if you
 #### [Reading Notes for Class 1](class1.md)
 #### [Reading Notes for Class 2](class2.md)
 #### [Reading Notes for Class 3](class3.md)
+#### [Reading Notes for Class 4](class4.md)
+#### [Reading Notes for Class 5](class5.md)
 
 ![DSC_0110](https://user-images.githubusercontent.com/81983821/182227233-19fe61e8-5d38-473d-b6a0-92cd390c5338.jpg)
 
